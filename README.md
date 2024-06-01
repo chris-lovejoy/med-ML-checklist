@@ -28,3 +28,10 @@
 After having read all this, consider: 
 - What did the authors conclude? Is it justified? 
 - What are the next steps? (Is this ready to be applied clinically? What further evidence would  you want? If you were to design the next study, what would it look like?)
+
+---
+
+### Articles
+
+- “[How to Read Articles That Use Machine Learning - Users’ Guides to the Medical Literature](https://jamanetwork.com/journals/jama/article-abstract/2754798)”  – Faes et al., Translational Vision Science & Technology, Feb 2020 
+- “[A Clinician's Guide to Artificial Intelligence: How to Critically Appraise Machine Learning Studies](https://academic.oup.com/ehjdh/article/3/2/125/6567505)” – Liu et al., JAMA, Nov 2019
